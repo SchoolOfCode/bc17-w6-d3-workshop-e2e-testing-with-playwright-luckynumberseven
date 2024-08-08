@@ -115,3 +115,6 @@ dist
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+
+# General ignores
+.DS_Store
