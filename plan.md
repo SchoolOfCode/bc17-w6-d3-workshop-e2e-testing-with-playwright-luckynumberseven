@@ -1,0 +1,11 @@
+ Ticket 1 - Setup and familiarity DONE
+ -Create DB ✅
+ -Create .env ✅
+ -Add BB_URL to 'env ✅
+ -Do the ?SSL=TRUE ✅
+ -npm install ✅✅
+ -reset DB ✅
+ -Install playwright ✅
+ -Add NPM script to run playwright -DO THIS NEXT!!
+ -Write a simple test barebones
+ -Run test
